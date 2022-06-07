@@ -3,10 +3,17 @@ export default function Home() {
     <div>
       <main>
         <div className="container">
-          <h1>Bowie Digial Marketing</h1>
+          <h1>Bowie Digital Marketing</h1>
           <p>
-            Bowie Digital Marketing is a SEO company in Maryland that offers SEO
-            services to businesses in the DMV.
+            Bowie Digital Marketing is a{' '}
+            <a
+              href="https://bowieseo.com/maryland-seo-company"
+              target="_blank"
+              rel="noreferrer"
+            >
+              SEO company in Maryland
+            </a>{' '}
+            that offers SEO services to businesses in the DMV.
           </p>
           <p>
             Search engine optimization (SEO) is the process of optimizing a
